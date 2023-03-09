@@ -1,0 +1,1802 @@
+[
+  {
+    "model": "providers.providers",
+    "pk": 1,
+    "fields": {
+      "first_name": "Elisabetta",
+      "last_name": "Souten",
+      "sex": "Male",
+      "birth_date": "1934-12-07",
+      "rating": 3.6,
+      "primary_skills": "[\"Code Refactoring\", \"Secure Coding Practices\", \"Application Integration\"]",
+      "secondary_skills": "[\"Web Development\"]",
+      "company": "Cremin-Vandervort",
+      "active": true,
+      "country": "China",
+      "language": "Assamese",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 2,
+    "fields": {
+      "first_name": "Alethea",
+      "last_name": "Labusch",
+      "sex": "Female",
+      "birth_date": "1951-03-16",
+      "rating": 7.9,
+      "primary_skills": "[\"Computational Logic\"]",
+      "secondary_skills": "[\"Linux / Unix\", \"System Administration\", \"Software Development Lifecycle\", \"Container Technologies\"]",
+      "company": "Stanton-Williamson",
+      "active": false,
+      "country": "China",
+      "language": "Haitian Creole",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 3,
+    "fields": {
+      "first_name": "Hettie",
+      "last_name": "Solleme",
+      "sex": "Female",
+      "birth_date": "1986-06-13",
+      "rating": 8.2,
+      "primary_skills": "[\"HTML\", \"Embedded Systems\"]",
+      "secondary_skills": "[\"Continuous Integration\"]",
+      "company": "Treutel and Sons",
+      "active": false,
+      "country": "China",
+      "language": "Kyrgyz",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 4,
+    "fields": {
+      "first_name": "Phyllis",
+      "last_name": "Fochs",
+      "sex": "Female",
+      "birth_date": "1952-10-03",
+      "rating": 7.0,
+      "primary_skills": "[\"Scientific Computing\", \"Event Processing\"]",
+      "secondary_skills": "[\"Scripting\", \"Production Support\"]",
+      "company": "Luettgen, Von and Wilderman",
+      "active": true,
+      "country": "Japan",
+      "language": "Dutch",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 5,
+    "fields": {
+      "first_name": "Morganica",
+      "last_name": "Illes",
+      "sex": "Female",
+      "birth_date": "1974-03-28",
+      "rating": 1.0,
+      "primary_skills": "[\"Estimates\", \"Configuration Management\", \"Identity & Authorization\", \"Batch Processing\", \"Data Structures\"]",
+      "secondary_skills": "[\"Error Tolerance\", \"Estimates\"]",
+      "company": "Terry, Bogan and Schmitt",
+      "active": false,
+      "country": "Ukraine",
+      "language": "Punjabi",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 6,
+    "fields": {
+      "first_name": "Karel",
+      "last_name": "Golledge",
+      "sex": "Male",
+      "birth_date": "1982-01-15",
+      "rating": 5.4,
+      "primary_skills": "[\"Logging\", \"Cryptography\"]",
+      "secondary_skills": "[\"SQL\", \"Front-end Development\", \"Machine Learning\", \"Data Integration\"]",
+      "company": "Macejkovic-Langworth",
+      "active": true,
+      "country": "China",
+      "language": "Bislama",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 7,
+    "fields": {
+      "first_name": "Krystal",
+      "last_name": "Viger",
+      "sex": "Female",
+      "birth_date": "1936-11-10",
+      "rating": 6.8,
+      "primary_skills": "[\"Cloud Computing\", \"Design Documents\"]",
+      "secondary_skills": "[\"Statistics\", \"Microservices\", \"Developer Tools\", \"Container Technologies\"]",
+      "company": "Wintheiser-Cummerata",
+      "active": false,
+      "country": "Armenia",
+      "language": "Papiamento",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 8,
+    "fields": {
+      "first_name": "Steffi",
+      "last_name": "Valadez",
+      "sex": "Female",
+      "birth_date": "1946-05-04",
+      "rating": 6.0,
+      "primary_skills": "[\"Databases\"]",
+      "secondary_skills": "[\"Scripting\", \"Error Tolerance\", \"NoSQL Datastores\", \"Real-time Computing\", \"Computation Theory\"]",
+      "company": "Fritsch LLC",
+      "active": true,
+      "country": "Canada",
+      "language": "Finnish",
+      "search_returns": 60
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 9,
+    "fields": {
+      "first_name": "Zolly",
+      "last_name": "Snoday",
+      "sex": "Female",
+      "birth_date": "1974-03-26",
+      "rating": 0.4,
+      "primary_skills": "[\"Data Structures\", \"Estimates\", \"Design Documents\"]",
+      "secondary_skills": "[\"Artificial Intelligence\"]",
+      "company": "Metz-Klein",
+      "active": false,
+      "country": "Canada",
+      "language": "Hindi",
+      "search_returns": 78
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 10,
+    "fields": {
+      "first_name": "Clerc",
+      "last_name": "Eastway",
+      "sex": "Polygender",
+      "birth_date": "1987-09-21",
+      "rating": 1.5,
+      "primary_skills": "[\"Computing Infrastructure\", \"Troubleshooting\", \"Microservices\", \"Robotics\", \"Messaging Frameworks\"]",
+      "secondary_skills": "[\"Data Integration\", \"Identity & Authorization\", \"APIs\"]",
+      "company": "Aufderhar, Heidenreich and Hickle",
+      "active": false,
+      "country": "China",
+      "language": "Hebrew",
+      "search_returns": 83
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 11,
+    "fields": {
+      "first_name": "Aili",
+      "last_name": "Gallahue",
+      "sex": "Female",
+      "birth_date": "1974-10-03",
+      "rating": 8.0,
+      "primary_skills": "[\"Artificial Intelligence\", \"Standards\", \"Use Cases\", \"Session Management\"]",
+      "secondary_skills": "[\"Debugging\", \"Configuration Management\", \"Programming Languages\", \"Parallel Processing\"]",
+      "company": "Kihn Inc",
+      "active": false,
+      "country": "China",
+      "language": "Swati",
+      "search_returns": 78
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 12,
+    "fields": {
+      "first_name": "Tabby",
+      "last_name": "Oxteby",
+      "sex": "Male",
+      "birth_date": "1955-10-26",
+      "rating": 5.8,
+      "primary_skills": "[\"Audit Trail\"]",
+      "secondary_skills": "[\"Robotics\", \"Systems Programming\"]",
+      "company": "Beatty, Koepp and Marks",
+      "active": true,
+      "country": "China",
+      "language": "Pashto",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 13,
+    "fields": {
+      "first_name": "Holt",
+      "last_name": "Remnant",
+      "sex": "Female",
+      "birth_date": "1951-02-04",
+      "rating": 0.8,
+      "primary_skills": "[\"Requirements Gathering\", \"Batch Processing\", \"Container Technologies\"]",
+      "secondary_skills": "[\"Statistics\", \"Computing Infrastructure\", \"Production Support\", \"Web Development\", \"Software Testing\"]",
+      "company": "Hilll, Prohaska and Kulas",
+      "active": false,
+      "country": "China",
+      "language": "Japanese",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 14,
+    "fields": {
+      "first_name": "Clemence",
+      "last_name": "Kid",
+      "sex": "Female",
+      "birth_date": "1989-03-06",
+      "rating": 2.7,
+      "primary_skills": "[\"Software Testing\", \"Encryption\", \"Information Retrieval\", \"Databases\"]",
+      "secondary_skills": "[\"Data Integration\"]",
+      "company": "Herman-Beer",
+      "active": true,
+      "country": "Japan",
+      "language": "Marathi",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 15,
+    "fields": {
+      "first_name": "Lynne",
+      "last_name": "Libbie",
+      "sex": "Female",
+      "birth_date": "1933-09-07",
+      "rating": 5.1,
+      "primary_skills": "[\"Service-oriented Programming\", \"Real-time Computing\"]",
+      "secondary_skills": "[\"Content Management Systems\", \"Distributed Systems\"]",
+      "company": "Kilback-Harber",
+      "active": true,
+      "country": "China",
+      "language": "Montenegrin",
+      "search_returns": 64
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 16,
+    "fields": {
+      "first_name": "Waldemar",
+      "last_name": "Allnutt",
+      "sex": "Male",
+      "birth_date": "1984-02-18",
+      "rating": 2.9,
+      "primary_skills": "[\"Quality Assurance\", \"Statistics\", \"Computing Infrastructure\"]",
+      "secondary_skills": "[\"Application Integration\", \"Audit Trail\", \"Debugging\", \"Cloud Computing\", \"Reusability\"]",
+      "company": "Fadel, Schultz and Hilll",
+      "active": true,
+      "country": "South Korea",
+      "language": "Northern Sotho",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 17,
+    "fields": {
+      "first_name": "Vickie",
+      "last_name": "MacKowle",
+      "sex": "Female",
+      "birth_date": "1979-01-20",
+      "rating": 9.6,
+      "primary_skills": "[\"Information Retrieval\"]",
+      "secondary_skills": "[\"Error Detection\"]",
+      "company": "Ondricka LLC",
+      "active": false,
+      "country": "China",
+      "language": "Armenian",
+      "search_returns": 84
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 18,
+    "fields": {
+      "first_name": "Correna",
+      "last_name": "Marland",
+      "sex": "Male",
+      "birth_date": "1976-06-16",
+      "rating": 8.5,
+      "primary_skills": "[\"Incident Management\", \"NoSQL Datastores\", \"Use Cases\", \"Real-time Computing\"]",
+      "secondary_skills": "[\"Data Integration\", \"Operating Systems\", \"APIs\", \"Blockchain\"]",
+      "company": "Boyer and Sons",
+      "active": false,
+      "country": "Japan",
+      "language": "Macedonian",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 19,
+    "fields": {
+      "first_name": "Granville",
+      "last_name": "Fidal",
+      "sex": "Agender",
+      "birth_date": "1942-05-22",
+      "rating": 7.4,
+      "primary_skills": "[\"Logging\", \"Machine Learning\", \"Specifications\", \"Systems Analysis\"]",
+      "secondary_skills": "[\"Back-end Development\", \"Reliability Engineering\", \"Cloud Computing\"]",
+      "company": "Raynor Group",
+      "active": false,
+      "country": "China",
+      "language": "Hiri Motu",
+      "search_returns": 82
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 20,
+    "fields": {
+      "first_name": "Merilee",
+      "last_name": "Simionato",
+      "sex": "Female",
+      "birth_date": "1983-04-23",
+      "rating": 9.5,
+      "primary_skills": "[\"Blockchain\", \"Standards\", \"Computation Theory\", \"Secure Coding Practices\", \"Production Support\"]",
+      "secondary_skills": "[\"Design Documents\", \"Troubleshooting\", \"Networking\", \"Information Retrieval\"]",
+      "company": "Fadel, Moore and Effertz",
+      "active": true,
+      "country": "United States",
+      "language": "Sotho",
+      "search_returns": 63
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 21,
+    "fields": {
+      "first_name": "Malvin",
+      "last_name": "Cheshire",
+      "sex": "Male",
+      "birth_date": "1979-02-13",
+      "rating": 2.2,
+      "primary_skills": "[\"Messaging Frameworks\", \"Real-time Computing\", \"Logging\", \"Databases\", \"Troubleshooting\"]",
+      "secondary_skills": "[\"Statistics\", \"Messaging Frameworks\"]",
+      "company": "Schmeler, Gottlieb and Johnson",
+      "active": true,
+      "country": "Japan",
+      "language": "Spanish",
+      "search_returns": 64
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 22,
+    "fields": {
+      "first_name": "Stefa",
+      "last_name": "Tobias",
+      "sex": "Female",
+      "birth_date": "1971-06-14",
+      "rating": 3.3,
+      "primary_skills": "[\"Distributed Systems\", \"Session Management\", \"HTML\"]",
+      "secondary_skills": "[\"Compression\"]",
+      "company": "Dietrich-Baumbach",
+      "active": false,
+      "country": "Japan",
+      "language": "Assamese",
+      "search_returns": 82
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 23,
+    "fields": {
+      "first_name": "Adella",
+      "last_name": "Jados",
+      "sex": "Female",
+      "birth_date": "1960-03-25",
+      "rating": 0.5,
+      "primary_skills": "[\"Algorithms\"]",
+      "secondary_skills": "[\"Real-time Computing\", \"Parallel Processing\"]",
+      "company": "Wiegand Group",
+      "active": true,
+      "country": "Mexico",
+      "language": "Bislama",
+      "search_returns": 76
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 24,
+    "fields": {
+      "first_name": "Gasparo",
+      "last_name": "Pretswell",
+      "sex": "Male",
+      "birth_date": "1989-12-18",
+      "rating": 7.2,
+      "primary_skills": "[\"Quality Assurance\"]",
+      "secondary_skills": "[\"Incident Management\", \"Development Frameworks\"]",
+      "company": "Schultz-Haag",
+      "active": true,
+      "country": "China",
+      "language": "Nepali",
+      "search_returns": 63
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 25,
+    "fields": {
+      "first_name": "Jessalin",
+      "last_name": "Thoumasson",
+      "sex": "Female",
+      "birth_date": "1942-06-21",
+      "rating": 7.3,
+      "primary_skills": "[\"Application Integration\", \"Computing Infrastructure\", \"Networking\", \"Information Security\"]",
+      "secondary_skills": "[\"Systems Programming\", \"Debugging\", \"Scalability\"]",
+      "company": "Daniel Group",
+      "active": false,
+      "country": "China",
+      "language": "Quechua",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 26,
+    "fields": {
+      "first_name": "Estell",
+      "last_name": "Hill",
+      "sex": "Female",
+      "birth_date": "1940-02-07",
+      "rating": 5.6,
+      "primary_skills": "[\"Compression\", \"Software Maintenance\", \"Networking\", \"Messaging Frameworks\", \"Embedded Systems\"]",
+      "secondary_skills": "[\"Object-oriented Programming\", \"Artificial Intelligence\"]",
+      "company": "Heaney-Bahringer",
+      "active": true,
+      "country": "Japan",
+      "language": "Spanish",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 27,
+    "fields": {
+      "first_name": "Tomas",
+      "last_name": "Olifaunt",
+      "sex": "Male",
+      "birth_date": "1933-06-21",
+      "rating": 9.2,
+      "primary_skills": "[\"Edge Computing\"]",
+      "secondary_skills": "[\"Batch Processing\", \"NoSQL Datastores\", \"APIs\"]",
+      "company": "Jacobi, Reynolds and Lockman",
+      "active": true,
+      "country": "China",
+      "language": "Tetum",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 28,
+    "fields": {
+      "first_name": "Curtice",
+      "last_name": "Swiggs",
+      "sex": "Male",
+      "birth_date": "1970-06-23",
+      "rating": 8.9,
+      "primary_skills": "[\"Linux / Unix\", \"CSS\", \"Error Tolerance\", \"Computing Infrastructure\", \"Messaging Frameworks\"]",
+      "secondary_skills": "[\"Devops\", \"Debugging\"]",
+      "company": "Hilpert LLC",
+      "active": true,
+      "country": "China",
+      "language": "Papiamento",
+      "search_returns": 63
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 29,
+    "fields": {
+      "first_name": "Chris",
+      "last_name": "Srawley",
+      "sex": "Male",
+      "birth_date": "1981-12-24",
+      "rating": 6.9,
+      "primary_skills": "[\"Embedded Systems\", \"Operating Systems\"]",
+      "secondary_skills": "[\"SQL\", \"Software Architecture\", \"Robotics\", \"Content Management Systems\", \"Embedded Systems\"]",
+      "company": "O'Reilly, D'Amore and Torp",
+      "active": true,
+      "country": "China",
+      "language": "Kashmiri",
+      "search_returns": 63
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 30,
+    "fields": {
+      "first_name": "Elston",
+      "last_name": "Clotworthy",
+      "sex": "Genderfluid",
+      "birth_date": "1937-08-29",
+      "rating": 3.5,
+      "primary_skills": "[\"Devops\", \"Application Integration\"]",
+      "secondary_skills": "[\"Scalability\"]",
+      "company": "Wunsch, Will and Hand",
+      "active": false,
+      "country": "China",
+      "language": "Fijian",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 31,
+    "fields": {
+      "first_name": "Zebedee",
+      "last_name": "Bungey",
+      "sex": "Male",
+      "birth_date": "1982-02-10",
+      "rating": 0.5,
+      "primary_skills": "[\"Unstructured Data\"]",
+      "secondary_skills": "[\"SQL\", \"Container Technologies\", \"Load Balancing\"]",
+      "company": "Wolf and Sons",
+      "active": true,
+      "country": "China",
+      "language": "Fijian",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 32,
+    "fields": {
+      "first_name": "Ferrel",
+      "last_name": "Shillaber",
+      "sex": "Female",
+      "birth_date": "1986-03-26",
+      "rating": 2.6,
+      "primary_skills": "[\"Operating Systems\", \"Back-end Development\", \"Reliability Engineering\", \"Service-oriented Programming\", \"Mobile Development\"]",
+      "secondary_skills": "[\"Error Tolerance\"]",
+      "company": "DuBuque-Ortiz",
+      "active": false,
+      "country": "China",
+      "language": "Somali",
+      "search_returns": 78
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 33,
+    "fields": {
+      "first_name": "Aguie",
+      "last_name": "Dakers",
+      "sex": "Female",
+      "birth_date": "1941-04-24",
+      "rating": 0.2,
+      "primary_skills": "[\"Mobile Development\", \"Batch Processing\", \"Software Design\"]",
+      "secondary_skills": "[\"Use Cases\", \"Developer Tools\", \"Incident Management\", \"Statistics\"]",
+      "company": "Hansen, Halvorson and Kreiger",
+      "active": false,
+      "country": "China",
+      "language": "Polish",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 34,
+    "fields": {
+      "first_name": "Barret",
+      "last_name": "Girdler",
+      "sex": "Female",
+      "birth_date": "1946-01-15",
+      "rating": 9.9,
+      "primary_skills": "[\"Data Structures\", \"Cloud Computing\", \"APIs\", \"Audit Trail\"]",
+      "secondary_skills": "[\"Front-end Development\"]",
+      "company": "Bergnaum-Kozey",
+      "active": true,
+      "country": "Japan",
+      "language": "Sotho",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 35,
+    "fields": {
+      "first_name": "Jeffy",
+      "last_name": "Klimashevich",
+      "sex": "Male",
+      "birth_date": "1946-07-24",
+      "rating": 3.8,
+      "primary_skills": "[\"Logging\", \"Project Planning\"]",
+      "secondary_skills": "[\"Unstructured Data\", \"System Administration\"]",
+      "company": "Murazik-Hessel",
+      "active": true,
+      "country": "United States",
+      "language": "Khmer",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 36,
+    "fields": {
+      "first_name": "Veronique",
+      "last_name": "Maulden",
+      "sex": "Male",
+      "birth_date": "1954-06-22",
+      "rating": 5.6,
+      "primary_skills": "[\"Container Technologies\", \"Messaging Frameworks\"]",
+      "secondary_skills": "[\"Computing Infrastructure\", \"Use Cases\", \"Requirements Gathering\", \"Design Documents\"]",
+      "company": "Champlin-Kuhic",
+      "active": false,
+      "country": "China",
+      "language": "Moldovan",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 37,
+    "fields": {
+      "first_name": "Blaine",
+      "last_name": "Volage",
+      "sex": "Female",
+      "birth_date": "1974-01-01",
+      "rating": 7.5,
+      "primary_skills": "[\"CSS\", \"Robotics\"]",
+      "secondary_skills": "[\"Compression\", \"Algorithms\", \"Development Frameworks\", \"HTML\", \"Software Development Lifecycle\"]",
+      "company": "Renner-Crist",
+      "active": false,
+      "country": "China",
+      "language": "Aymara",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 38,
+    "fields": {
+      "first_name": "Hugues",
+      "last_name": "Vodden",
+      "sex": "Male",
+      "birth_date": "1974-04-22",
+      "rating": 0.6,
+      "primary_skills": "[\"Event Processing\", \"Databases\"]",
+      "secondary_skills": "[\"Logging\", \"Incident Management\", \"Encryption\", \"Deployment Automation\", \"Container Technologies\"]",
+      "company": "Mraz, Skiles and Ruecker",
+      "active": true,
+      "country": "Japan",
+      "language": "Zulu",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 39,
+    "fields": {
+      "first_name": "Avril",
+      "last_name": "Beedle",
+      "sex": "Female",
+      "birth_date": "1934-12-07",
+      "rating": 3.7,
+      "primary_skills": "[\"NoSQL Datastores\"]",
+      "secondary_skills": "[\"Systems Analysis\"]",
+      "company": "Johns, Bartoletti and Kuhlman",
+      "active": false,
+      "country": "China",
+      "language": "Luxembourgish",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 40,
+    "fields": {
+      "first_name": "Reinaldos",
+      "last_name": "Petronis",
+      "sex": "Male",
+      "birth_date": "1942-12-06",
+      "rating": 4.3,
+      "primary_skills": "[\"Computational Logic\"]",
+      "secondary_skills": "[\"Identity & Authorization\"]",
+      "company": "Stracke Group",
+      "active": false,
+      "country": "China",
+      "language": "Māori",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 41,
+    "fields": {
+      "first_name": "Buckie",
+      "last_name": "Taylo",
+      "sex": "Male",
+      "birth_date": "1951-06-15",
+      "rating": 2.0,
+      "primary_skills": "[\"Troubleshooting\", \"Programming Languages\", \"Computation Theory\", \"Javascript\"]",
+      "secondary_skills": "[\"Code Refactoring\", \"Devops\", \"Configuration Management\", \"Back-end Development\", \"Data Structures\"]",
+      "company": "Harber, O'Conner and Stroman",
+      "active": false,
+      "country": "China",
+      "language": "Dutch",
+      "search_returns": 103
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 42,
+    "fields": {
+      "first_name": "Thane",
+      "last_name": "Lemon",
+      "sex": "Female",
+      "birth_date": "1938-11-21",
+      "rating": 9.0,
+      "primary_skills": "[\"Scripting\", \"Data Structures\"]",
+      "secondary_skills": "[\"Reusability\", \"Back-end Development\", \"Front-end Development\"]",
+      "company": "Kerluke-Macejkovic",
+      "active": false,
+      "country": "Ukraine",
+      "language": "Somali",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 43,
+    "fields": {
+      "first_name": "Shellie",
+      "last_name": "Pairpoint",
+      "sex": "Male",
+      "birth_date": "1946-09-12",
+      "rating": 0.8,
+      "primary_skills": "[\"Code Refactoring\", \"Specifications\", \"Reusability\", \"Machine Learning\"]",
+      "secondary_skills": "[\"Machine Learning\", \"Reusability\", \"Mobile Development\"]",
+      "company": "Berge-Kautzer",
+      "active": true,
+      "country": "China",
+      "language": "Swahili",
+      "search_returns": 63
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 44,
+    "fields": {
+      "first_name": "Marlyn",
+      "last_name": "Yirrell",
+      "sex": "Male",
+      "birth_date": "1972-06-21",
+      "rating": 0.3,
+      "primary_skills": "[\"Error Tolerance\"]",
+      "secondary_skills": "[\"Event Processing\", \"Load Balancing\", \"Software Testing\", \"HTML\"]",
+      "company": "Streich LLC",
+      "active": true,
+      "country": "China",
+      "language": "Finnish",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 45,
+    "fields": {
+      "first_name": "Cloris",
+      "last_name": "Mundee",
+      "sex": "Female",
+      "birth_date": "1960-04-09",
+      "rating": 9.8,
+      "primary_skills": "[\"Logging\", \"Batch Processing\", \"Platforms\", \"Estimates\", \"Data Integration\"]",
+      "secondary_skills": "[\"Content Management Systems\", \"Information Retrieval\", \"Secure Code Review\", \"Secure Coding Practices\", \"SQL\"]",
+      "company": "Kulas, Bergnaum and Mitchell",
+      "active": true,
+      "country": "China",
+      "language": "Belarusian",
+      "search_returns": 63
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 46,
+    "fields": {
+      "first_name": "Den",
+      "last_name": "Ilden",
+      "sex": "Male",
+      "birth_date": "1986-02-26",
+      "rating": 7.7,
+      "primary_skills": "[\"Software Architecture\"]",
+      "secondary_skills": "[\"Session Management\", \"Deployment Automation\", \"Mobile Development\", \"Encryption\", \"Platforms\"]",
+      "company": "Price Inc",
+      "active": false,
+      "country": "China",
+      "language": "Kurdish",
+      "search_returns": 78
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 47,
+    "fields": {
+      "first_name": "Hedvige",
+      "last_name": "Claricoats",
+      "sex": "Male",
+      "birth_date": "1957-01-14",
+      "rating": 2.0,
+      "primary_skills": "[\"Secure Code Review\", \"Design Documents\", \"Standards\"]",
+      "secondary_skills": "[\"Use Cases\", \"Object-oriented Programming\", \"Back-end Development\", \"Debugging\"]",
+      "company": "Schuster-Schiller",
+      "active": false,
+      "country": "China",
+      "language": "Portuguese",
+      "search_returns": 78
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 48,
+    "fields": {
+      "first_name": "Birgitta",
+      "last_name": "McCollum",
+      "sex": "Female",
+      "birth_date": "1958-04-17",
+      "rating": 0.2,
+      "primary_skills": "[\"Programming Languages\", \"Design Documents\", \"Development Frameworks\", \"Edge Computing\", \"Mobile Development\"]",
+      "secondary_skills": "[\"Databases\", \"Programming Languages\", \"Secure Code Review\"]",
+      "company": "Predovic, Roberts and Lebsack",
+      "active": true,
+      "country": "China",
+      "language": "Nepali",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 49,
+    "fields": {
+      "first_name": "Gilbertine",
+      "last_name": "Bartlosz",
+      "sex": "Male",
+      "birth_date": "1979-11-23",
+      "rating": 7.8,
+      "primary_skills": "[\"Microservices\", \"Blockchain\", \"Encryption\", \"Debugging\"]",
+      "secondary_skills": "[\"Devops\", \"Software Design\", \"Load Balancing\", \"Back-end Development\"]",
+      "company": "Champlin, Strosin and Morissette",
+      "active": false,
+      "country": "China",
+      "language": "Ndebele",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 50,
+    "fields": {
+      "first_name": "Mel",
+      "last_name": "Haylock",
+      "sex": "Female",
+      "birth_date": "1971-04-29",
+      "rating": 7.7,
+      "primary_skills": "[\"Container Technologies\"]",
+      "secondary_skills": "[\"Troubleshooting\", \"System Administration\", \"Algorithms\", \"Microservices\"]",
+      "company": "Ullrich LLC",
+      "active": false,
+      "country": "Ukraine",
+      "language": "Bengali",
+      "search_returns": 78
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 51,
+    "fields": {
+      "first_name": "Shandee",
+      "last_name": "Jolliss",
+      "sex": "Male",
+      "birth_date": "1932-07-24",
+      "rating": 8.8,
+      "primary_skills": "[\"Production Support\", \"Microservices\", \"SQL\"]",
+      "secondary_skills": "[\"Logging\", \"Encryption\", \"Quality Assurance\"]",
+      "company": "Fay, Luettgen and Schaefer",
+      "active": true,
+      "country": "United States",
+      "language": "Czech",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 52,
+    "fields": {
+      "first_name": "Urbano",
+      "last_name": "Brager",
+      "sex": "Female",
+      "birth_date": "1958-05-13",
+      "rating": 6.5,
+      "primary_skills": "[\"Scalability\", \"Operating Systems\", \"Data Structures\", \"Computational Logic\", \"Code Refactoring\"]",
+      "secondary_skills": "[\"Error Tolerance\"]",
+      "company": "Kuphal Group",
+      "active": true,
+      "country": "United States",
+      "language": "Kannada",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 53,
+    "fields": {
+      "first_name": "Morgun",
+      "last_name": "Rockliffe",
+      "sex": "Female",
+      "birth_date": "1932-11-06",
+      "rating": 1.0,
+      "primary_skills": "[\"Deployment Automation\", \"Blockchain\", \"Operating Systems\", \"Real-time Computing\"]",
+      "secondary_skills": "[\"Cloud Computing\", \"Front-end Development\"]",
+      "company": "Windler-Blanda",
+      "active": false,
+      "country": "China",
+      "language": "Lao",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 54,
+    "fields": {
+      "first_name": "Rora",
+      "last_name": "Edel",
+      "sex": "Female",
+      "birth_date": "1930-06-29",
+      "rating": 0.3,
+      "primary_skills": "[\"Configuration Management\", \"Machine Learning\", \"Specifications\"]",
+      "secondary_skills": "[\"Logging\", \"Production Support\", \"Software Architecture\", \"Robotics\", \"Encryption\"]",
+      "company": "Schuppe, Marks and Bailey",
+      "active": true,
+      "country": "China",
+      "language": "Papiamento",
+      "search_returns": 64
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 55,
+    "fields": {
+      "first_name": "Cirstoforo",
+      "last_name": "Crates",
+      "sex": "Female",
+      "birth_date": "1963-08-24",
+      "rating": 6.8,
+      "primary_skills": "[\"Secure Code Review\", \"System Administration\", \"Scientific Computing\", \"Troubleshooting\"]",
+      "secondary_skills": "[\"Cloud Computing\", \"Mobile Development\", \"Algorithms\", \"Event Processing\", \"Developer Tools\"]",
+      "company": "Mitchell-Brown",
+      "active": false,
+      "country": "China",
+      "language": "Maltese",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 56,
+    "fields": {
+      "first_name": "Pennie",
+      "last_name": "Jerzycowski",
+      "sex": "Male",
+      "birth_date": "1970-07-31",
+      "rating": 1.0,
+      "primary_skills": "[\"Production Support\", \"Parallel Processing\", \"Incident Management\"]",
+      "secondary_skills": "[\"Configuration Management\"]",
+      "company": "Dickinson and Sons",
+      "active": true,
+      "country": "Ukraine",
+      "language": "Montenegrin",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 57,
+    "fields": {
+      "first_name": "Cynthy",
+      "last_name": "Woolveridge",
+      "sex": "Agender",
+      "birth_date": "1967-04-01",
+      "rating": 9.9,
+      "primary_skills": "[\"Reliability Engineering\", \"Batch Processing\", \"Encryption\"]",
+      "secondary_skills": "[\"Scalability\", \"Javascript\", \"Service-oriented Programming\"]",
+      "company": "Veum, Huel and Dooley",
+      "active": true,
+      "country": "China",
+      "language": "Burmese",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 58,
+    "fields": {
+      "first_name": "Abraham",
+      "last_name": "Overall",
+      "sex": "Female",
+      "birth_date": "1932-08-30",
+      "rating": 4.6,
+      "primary_skills": "[\"Session Management\", \"HTML\", \"Application Integration\", \"Scripting\", \"Reliability Engineering\"]",
+      "secondary_skills": "[\"Data Integration\", \"Scientific Computing\"]",
+      "company": "Nitzsche Inc",
+      "active": false,
+      "country": "China",
+      "language": "Māori",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 59,
+    "fields": {
+      "first_name": "Derwin",
+      "last_name": "Meigh",
+      "sex": "Female",
+      "birth_date": "1957-06-15",
+      "rating": 3.3,
+      "primary_skills": "[\"CSS\", \"Secure Code Review\", \"Quality Assurance\", \"Secure Coding Practices\"]",
+      "secondary_skills": "[\"Information Security\", \"Load Balancing\"]",
+      "company": "Cruickshank and Sons",
+      "active": false,
+      "country": "China",
+      "language": "Norwegian",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 60,
+    "fields": {
+      "first_name": "Tomlin",
+      "last_name": "Freddi",
+      "sex": "Female",
+      "birth_date": "1939-06-17",
+      "rating": 7.1,
+      "primary_skills": "[\"Mathematics\", \"Code Refactoring\", \"Cloud Computing\"]",
+      "secondary_skills": "[\"Secure Code Review\", \"Software Testing\", \"Embedded Systems\", \"Parallel Processing\"]",
+      "company": "Mann, Stokes and Christiansen",
+      "active": false,
+      "country": "United States",
+      "language": "Bengali",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 61,
+    "fields": {
+      "first_name": "Sharl",
+      "last_name": "Dancy",
+      "sex": "Female",
+      "birth_date": "1974-08-31",
+      "rating": 5.7,
+      "primary_skills": "[\"System Administration\"]",
+      "secondary_skills": "[\"Data Structures\"]",
+      "company": "Swift LLC",
+      "active": true,
+      "country": "China",
+      "language": "Spanish",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 62,
+    "fields": {
+      "first_name": "Kathe",
+      "last_name": "Drummer",
+      "sex": "Male",
+      "birth_date": "1988-03-05",
+      "rating": 1.2,
+      "primary_skills": "[\"Error Tolerance\", \"Quality Assurance\", \"Development Frameworks\", \"Scripting\", \"Specifications\"]",
+      "secondary_skills": "[\"Blockchain\", \"Event Processing\", \"Reliability Engineering\", \"Quality Assurance\"]",
+      "company": "Kohler-Crona",
+      "active": false,
+      "country": "China",
+      "language": "Hungarian",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 63,
+    "fields": {
+      "first_name": "Theodore",
+      "last_name": "Daw",
+      "sex": "Female",
+      "birth_date": "1962-12-08",
+      "rating": 1.1,
+      "primary_skills": "[\"Platforms\"]",
+      "secondary_skills": "[\"Error Detection\", \"Use Cases\", \"Specifications\", \"Databases\", \"Software Development Lifecycle\"]",
+      "company": "Schaefer and Sons",
+      "active": true,
+      "country": "China",
+      "language": "Arabic",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 64,
+    "fields": {
+      "first_name": "Ingrim",
+      "last_name": "Grandisson",
+      "sex": "Female",
+      "birth_date": "1956-11-18",
+      "rating": 7.6,
+      "primary_skills": "[\"Application Integration\", \"Batch Processing\", \"Information Security\"]",
+      "secondary_skills": "[\"Programming Languages\", \"Computing Infrastructure\", \"Session Management\"]",
+      "company": "Dickinson, King and Rosenbaum",
+      "active": false,
+      "country": "Canada",
+      "language": "Somali",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 65,
+    "fields": {
+      "first_name": "Erv",
+      "last_name": "MacParland",
+      "sex": "Male",
+      "birth_date": "1955-06-25",
+      "rating": 2.9,
+      "primary_skills": "[\"Linux / Unix\", \"Encryption\"]",
+      "secondary_skills": "[\"Artificial Intelligence\", \"Information Retrieval\", \"Microservices\"]",
+      "company": "Kessler-Kirlin",
+      "active": true,
+      "country": "China",
+      "language": "French",
+      "search_returns": 60
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 66,
+    "fields": {
+      "first_name": "Gabrielle",
+      "last_name": "Helks",
+      "sex": "Male",
+      "birth_date": "1970-09-06",
+      "rating": 5.1,
+      "primary_skills": "[\"Specifications\", \"Scripting\"]",
+      "secondary_skills": "[\"Secure Code Review\"]",
+      "company": "Steuber and Sons",
+      "active": true,
+      "country": "China",
+      "language": "Romanian",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 67,
+    "fields": {
+      "first_name": "Ewan",
+      "last_name": "Hoyt",
+      "sex": "Female",
+      "birth_date": "1969-10-30",
+      "rating": 6.5,
+      "primary_skills": "[\"Scientific Computing\", \"Mobile Development\", \"Artificial Intelligence\", \"Secure Code Review\"]",
+      "secondary_skills": "[\"Container Technologies\", \"Web Development\", \"Systems Analysis\", \"Software Architecture\"]",
+      "company": "Ruecker-Lind",
+      "active": true,
+      "country": "Canada",
+      "language": "West Frisian",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 68,
+    "fields": {
+      "first_name": "Addia",
+      "last_name": "Phillipps",
+      "sex": "Male",
+      "birth_date": "1974-12-21",
+      "rating": 8.0,
+      "primary_skills": "[\"Edge Computing\"]",
+      "secondary_skills": "[\"Devops\", \"Quality Assurance\", \"Encryption\"]",
+      "company": "Tremblay-Weber",
+      "active": true,
+      "country": "United States",
+      "language": "Malayalam",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 69,
+    "fields": {
+      "first_name": "Hedwiga",
+      "last_name": "Ridett",
+      "sex": "Male",
+      "birth_date": "1987-05-02",
+      "rating": 5.6,
+      "primary_skills": "[\"Statistics\", \"Software Maintenance\"]",
+      "secondary_skills": "[\"Application Integration\", \"Requirements Gathering\", \"Scientific Computing\"]",
+      "company": "King, Schowalter and Emard",
+      "active": true,
+      "country": "Ukraine",
+      "language": "Tsonga",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 70,
+    "fields": {
+      "first_name": "Gusty",
+      "last_name": "Greetham",
+      "sex": "Male",
+      "birth_date": "1984-09-04",
+      "rating": 4.9,
+      "primary_skills": "[\"Logging\", \"Specifications\"]",
+      "secondary_skills": "[\"Embedded Systems\", \"Developer Tools\", \"Mobile Development\", \"Blockchain\"]",
+      "company": "Lockman, Kihn and Ankunding",
+      "active": true,
+      "country": "China",
+      "language": "Finnish",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 71,
+    "fields": {
+      "first_name": "Ella",
+      "last_name": "Legrice",
+      "sex": "Male",
+      "birth_date": "1966-02-24",
+      "rating": 0.8,
+      "primary_skills": "[\"Programming Languages\"]",
+      "secondary_skills": "[\"Cloud Computing\"]",
+      "company": "Lesch, Pollich and Quitzon",
+      "active": true,
+      "country": "United States",
+      "language": "Gujarati",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 72,
+    "fields": {
+      "first_name": "Lebbie",
+      "last_name": "Aleksandrov",
+      "sex": "Polygender",
+      "birth_date": "1963-06-12",
+      "rating": 6.1,
+      "primary_skills": "[\"Artificial Intelligence\", \"Algorithms\", \"Secure Code Review\"]",
+      "secondary_skills": "[\"Embedded Systems\", \"Data Structures\", \"Software Design\"]",
+      "company": "Block Inc",
+      "active": true,
+      "country": "China",
+      "language": "Gagauz",
+      "search_returns": 75
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 73,
+    "fields": {
+      "first_name": "Vaughan",
+      "last_name": "Pennrington",
+      "sex": "Male",
+      "birth_date": "1953-04-16",
+      "rating": 1.2,
+      "primary_skills": "[\"Data Integration\", \"Error Tolerance\"]",
+      "secondary_skills": "[\"Statistics\", \"Event Processing\", \"Software Testing\", \"Error Tolerance\", \"Back-end Development\"]",
+      "company": "Pacocha Group",
+      "active": false,
+      "country": "China",
+      "language": "Hiri Motu",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 74,
+    "fields": {
+      "first_name": "Millie",
+      "last_name": "Broschek",
+      "sex": "Female",
+      "birth_date": "1935-06-23",
+      "rating": 8.1,
+      "primary_skills": "[\"Scientific Computing\", \"Statistics\"]",
+      "secondary_skills": "[\"Quality Assurance\", \"Platforms\", \"Secure Coding Practices\"]",
+      "company": "Champlin Inc",
+      "active": true,
+      "country": "Canada",
+      "language": "French",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 75,
+    "fields": {
+      "first_name": "Kendre",
+      "last_name": "Sindall",
+      "sex": "Male",
+      "birth_date": "1954-07-29",
+      "rating": 9.1,
+      "primary_skills": "[\"Estimates\", \"Project Planning\", \"Production Support\", \"Content Management Systems\"]",
+      "secondary_skills": "[\"Unstructured Data\"]",
+      "company": "Murray and Sons",
+      "active": false,
+      "country": "China",
+      "language": "Swati",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 76,
+    "fields": {
+      "first_name": "Florinda",
+      "last_name": "Adelberg",
+      "sex": "Genderqueer",
+      "birth_date": "1963-02-17",
+      "rating": 8.2,
+      "primary_skills": "[\"Logging\", \"Real-time Computing\", \"Service-oriented Programming\", \"Web Development\"]",
+      "secondary_skills": "[\"Debugging\", \"Troubleshooting\", \"Systems Programming\"]",
+      "company": "Rowe, O'Hara and Altenwerth",
+      "active": true,
+      "country": "China",
+      "language": "Malay",
+      "search_returns": 66
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 77,
+    "fields": {
+      "first_name": "Glynda",
+      "last_name": "Burkett",
+      "sex": "Male",
+      "birth_date": "1946-11-07",
+      "rating": 0.9,
+      "primary_skills": "[\"Cloud Computing\", \"Data Integration\", \"Edge Computing\", \"Code Refactoring\"]",
+      "secondary_skills": "[\"Object-oriented Programming\", \"Software Testing\", \"Compression\", \"Content Management Systems\", \"Computation Theory\"]",
+      "company": "Witting-Roob",
+      "active": true,
+      "country": "China",
+      "language": "Tamil",
+      "search_returns": 65
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 78,
+    "fields": {
+      "first_name": "Glenn",
+      "last_name": "Kmieciak",
+      "sex": "Male",
+      "birth_date": "1967-10-26",
+      "rating": 3.2,
+      "primary_skills": "[\"Database Design\", \"Data Integration\", \"Design Documents\", \"Use Cases\", \"Cloud Computing\"]",
+      "secondary_skills": "[\"NoSQL Datastores\", \"Cryptography\"]",
+      "company": "Jenkins, Hintz and O'Keefe",
+      "active": false,
+      "country": "China",
+      "language": "Malagasy",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 79,
+    "fields": {
+      "first_name": "Deane",
+      "last_name": "Hedde",
+      "sex": "Male",
+      "birth_date": "1939-02-14",
+      "rating": 6.8,
+      "primary_skills": "[\"CSS\", \"Robotics\", \"Information Retrieval\", \"Encryption\", \"Continuous Integration\"]",
+      "secondary_skills": "[\"Operating Systems\"]",
+      "company": "Hegmann Inc",
+      "active": true,
+      "country": "United States",
+      "language": "Hindi",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 80,
+    "fields": {
+      "first_name": "Tonya",
+      "last_name": "Dashkovich",
+      "sex": "Male",
+      "birth_date": "1977-02-10",
+      "rating": 0.2,
+      "primary_skills": "[\"Object-oriented Programming\", \"Linux / Unix\", \"Application Integration\"]",
+      "secondary_skills": "[\"Quality Assurance\", \"Configuration Management\", \"Reliability Engineering\", \"Development Frameworks\"]",
+      "company": "O'Connell Group",
+      "active": true,
+      "country": "China",
+      "language": "Portuguese",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 81,
+    "fields": {
+      "first_name": "Marilyn",
+      "last_name": "Nairy",
+      "sex": "Male",
+      "birth_date": "1933-06-08",
+      "rating": 6.6,
+      "primary_skills": "[\"Scalability\", \"Mobile Development\"]",
+      "secondary_skills": "[\"Computation Theory\", \"Quality Assurance\", \"Microservices\"]",
+      "company": "Hahn-Stokes",
+      "active": true,
+      "country": "China",
+      "language": "Korean",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 82,
+    "fields": {
+      "first_name": "Shaun",
+      "last_name": "Davidsen",
+      "sex": "Male",
+      "birth_date": "1961-06-15",
+      "rating": 6.4,
+      "primary_skills": "[\"Error Detection\", \"Front-end Development\", \"Unstructured Data\"]",
+      "secondary_skills": "[\"Debugging\"]",
+      "company": "Bins Group",
+      "active": false,
+      "country": "Canada",
+      "language": "English",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 83,
+    "fields": {
+      "first_name": "Papagena",
+      "last_name": "Instock",
+      "sex": "Male",
+      "birth_date": "1968-01-09",
+      "rating": 1.2,
+      "primary_skills": "[\"Programming Languages\", \"Front-end Development\", \"Edge Computing\", \"Quality Assurance\"]",
+      "secondary_skills": "[\"Requirements Gathering\", \"Scalability\", \"Front-end Development\", \"Artificial Intelligence\"]",
+      "company": "Walsh-Wiegand",
+      "active": false,
+      "country": "China",
+      "language": "Czech",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 84,
+    "fields": {
+      "first_name": "Nicolette",
+      "last_name": "Kinig",
+      "sex": "Male",
+      "birth_date": "1974-12-28",
+      "rating": 6.6,
+      "primary_skills": "[\"Design Documents\", \"Developer Tools\", \"Application Integration\", \"Scripting\", \"Development Frameworks\"]",
+      "secondary_skills": "[\"Continuous Integration\", \"Configuration Management\"]",
+      "company": "Barton Group",
+      "active": true,
+      "country": "Ukraine",
+      "language": "Hebrew",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 85,
+    "fields": {
+      "first_name": "Gus",
+      "last_name": "Bartolacci",
+      "sex": "Male",
+      "birth_date": "1935-08-27",
+      "rating": 5.9,
+      "primary_skills": "[\"Microservices\"]",
+      "secondary_skills": "[\"Code Refactoring\", \"Parallel Processing\"]",
+      "company": "Swift, Altenwerth and O'Conner",
+      "active": true,
+      "country": "China",
+      "language": "Armenian",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 86,
+    "fields": {
+      "first_name": "Tedd",
+      "last_name": "Lightwing",
+      "sex": "Male",
+      "birth_date": "1960-02-27",
+      "rating": 6.3,
+      "primary_skills": "[\"Edge Computing\", \"Cloud Computing\", \"Data Integration\", \"Quality Assurance\", \"Mobile Development\"]",
+      "secondary_skills": "[\"Robotics\", \"Application Integration\", \"Container Technologies\", \"Artificial Intelligence\"]",
+      "company": "Hegmann-Kling",
+      "active": false,
+      "country": "Mexico",
+      "language": "Yiddish",
+      "search_returns": 80
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 87,
+    "fields": {
+      "first_name": "Chrotoem",
+      "last_name": "Goding",
+      "sex": "Male",
+      "birth_date": "1982-04-07",
+      "rating": 4.3,
+      "primary_skills": "[\"Software Testing\"]",
+      "secondary_skills": "[\"APIs\", \"Identity & Authorization\", \"Cryptography\", \"Scripting\", \"Application Integration\"]",
+      "company": "Kreiger-Windler",
+      "active": true,
+      "country": "China",
+      "language": "Persian",
+      "search_returns": 60
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 88,
+    "fields": {
+      "first_name": "Kurtis",
+      "last_name": "Yapp",
+      "sex": "Female",
+      "birth_date": "1969-08-06",
+      "rating": 1.5,
+      "primary_skills": "[\"Requirements Gathering\", \"NoSQL Datastores\", \"Information Security\", \"Incident Management\", \"Service-oriented Programming\"]",
+      "secondary_skills": "[\"Error Tolerance\"]",
+      "company": "Waters Inc",
+      "active": false,
+      "country": "Japan",
+      "language": "Dutch",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 89,
+    "fields": {
+      "first_name": "Opaline",
+      "last_name": "Dinneen",
+      "sex": "Male",
+      "birth_date": "1940-09-11",
+      "rating": 8.3,
+      "primary_skills": "[\"CSS\", \"Batch Processing\", \"Cryptography\"]",
+      "secondary_skills": "[\"Cryptography\"]",
+      "company": "Hudson, Walker and Bogisich",
+      "active": true,
+      "country": "Japan",
+      "language": "Macedonian",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 90,
+    "fields": {
+      "first_name": "Berky",
+      "last_name": "MacCaffrey",
+      "sex": "Polygender",
+      "birth_date": "1983-06-16",
+      "rating": 6.0,
+      "primary_skills": "[\"Platforms\", \"NoSQL Datastores\", \"HTML\", \"Blockchain\", \"Reusability\"]",
+      "secondary_skills": "[\"Data Structures\"]",
+      "company": "Little-Tromp",
+      "active": true,
+      "country": "Mexico",
+      "language": "Yiddish",
+      "search_returns": 60
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 91,
+    "fields": {
+      "first_name": "Mathe",
+      "last_name": "McKevitt",
+      "sex": "Agender",
+      "birth_date": "1952-08-28",
+      "rating": 0.8,
+      "primary_skills": "[\"CSS\", \"Data Integration\"]",
+      "secondary_skills": "[\"Systems Analysis\"]",
+      "company": "Gusikowski, Dooley and Jast",
+      "active": true,
+      "country": "South Korea",
+      "language": "Estonian",
+      "search_returns": 62
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 92,
+    "fields": {
+      "first_name": "Aluino",
+      "last_name": "Bramble",
+      "sex": "Male",
+      "birth_date": "1948-01-18",
+      "rating": 6.5,
+      "primary_skills": "[\"Incident Management\", \"Application Integration\", \"Content Management Systems\", \"Project Planning\"]",
+      "secondary_skills": "[\"Blockchain\"]",
+      "company": "Zulauf-Ankunding",
+      "active": false,
+      "country": "China",
+      "language": "Filipino",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 93,
+    "fields": {
+      "first_name": "Arlin",
+      "last_name": "Hearty",
+      "sex": "Male",
+      "birth_date": "1937-02-18",
+      "rating": 7.0,
+      "primary_skills": "[\"Mathematics\", \"Development Frameworks\", \"Real-time Computing\"]",
+      "secondary_skills": "[\"Data Structures\", \"Container Technologies\", \"Messaging Frameworks\", \"Scripting\", \"Database Design\"]",
+      "company": "Gutmann LLC",
+      "active": false,
+      "country": "South Korea",
+      "language": "Oriya",
+      "search_returns": 81
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 94,
+    "fields": {
+      "first_name": "Yul",
+      "last_name": "Quinnette",
+      "sex": "Female",
+      "birth_date": "1942-07-03",
+      "rating": 4.2,
+      "primary_skills": "[\"Secure Coding Practices\", \"Production Support\"]",
+      "secondary_skills": "[\"Data Structures\", \"Messaging Frameworks\", \"Software Maintenance\", \"Secure Coding Practices\"]",
+      "company": "Crist, Runolfsson and Block",
+      "active": false,
+      "country": "Ukraine",
+      "language": "French",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 95,
+    "fields": {
+      "first_name": "Purcell",
+      "last_name": "Cardoe",
+      "sex": "Female",
+      "birth_date": "1959-12-10",
+      "rating": 8.2,
+      "primary_skills": "[\"Information Retrieval\", \"Compression\", \"Standards\"]",
+      "secondary_skills": "[\"Production Support\", \"Web Development\", \"Compression\", \"Javascript\", \"Data Structures\"]",
+      "company": "Ankunding, Strosin and Hilll",
+      "active": true,
+      "country": "Ukraine",
+      "language": "Latvian",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 96,
+    "fields": {
+      "first_name": "Winifield",
+      "last_name": "Volkers",
+      "sex": "Female",
+      "birth_date": "1944-12-08",
+      "rating": 1.2,
+      "primary_skills": "[\"Real-time Computing\", \"Container Technologies\", \"Messaging Frameworks\", \"Incident Management\", \"Deployment Automation\"]",
+      "secondary_skills": "[\"Use Cases\", \"Mobile Development\", \"Application Integration\", \"Devops\", \"Audit Trail\"]",
+      "company": "Nicolas-Swaniawski",
+      "active": true,
+      "country": "Ukraine",
+      "language": "Tajik",
+      "search_returns": 63
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 97,
+    "fields": {
+      "first_name": "Juana",
+      "last_name": "King",
+      "sex": "Female",
+      "birth_date": "1930-12-17",
+      "rating": 5.3,
+      "primary_skills": "[\"Audit Trail\", \"Batch Processing\", \"Programming Languages\", \"Secure Coding Practices\", \"Specifications\"]",
+      "secondary_skills": "[\"Mobile Development\", \"Machine Learning\", \"Design Documents\"]",
+      "company": "Mann-Ullrich",
+      "active": true,
+      "country": "China",
+      "language": "Yiddish",
+      "search_returns": 64
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 98,
+    "fields": {
+      "first_name": "Willow",
+      "last_name": "Kleiner",
+      "sex": "Male",
+      "birth_date": "1954-11-24",
+      "rating": 6.9,
+      "primary_skills": "[\"Mathematics\", \"Front-end Development\"]",
+      "secondary_skills": "[\"Cryptography\", \"Web Development\", \"Edge Computing\", \"Design Documents\", \"NoSQL Datastores\"]",
+      "company": "Terry, Bayer and Hackett",
+      "active": true,
+      "country": "Ukraine",
+      "language": "Amharic",
+      "search_returns": 61
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 99,
+    "fields": {
+      "first_name": "Lindie",
+      "last_name": "Garlee",
+      "sex": "Male",
+      "birth_date": "1933-02-20",
+      "rating": 7.8,
+      "primary_skills": "[\"Artificial Intelligence\", \"Reliability Engineering\", \"Software Testing\", \"Incident Management\"]",
+      "secondary_skills": "[\"Session Management\", \"Estimates\", \"Blockchain\"]",
+      "company": "Osinski and Sons",
+      "active": false,
+      "country": "China",
+      "language": "Marathi",
+      "search_returns": 79
+    }
+  },
+  {
+    "model": "providers.providers",
+    "pk": 100,
+    "fields": {
+      "first_name": "Wilmette",
+      "last_name": "Slewcock",
+      "sex": "Male",
+      "birth_date": "1947-09-26",
+      "rating": 6.9,
+      "primary_skills": "[\"Mathematics\", \"Container Technologies\", \"Design Documents\", \"Audit Trail\", \"Computation Theory\"]",
+      "secondary_skills": "[\"Configuration Management\", \"Parallel Processing\", \"Application Integration\", \"Secure Code Review\"]",
+      "company": "Volkman, Dietrich and McLaughlin",
+      "active": false,
+      "country": "China",
+      "language": "Danish",
+      "search_returns": 82
+    }
+  }
+]
