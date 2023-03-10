@@ -1,5 +1,5 @@
 from django.db import models
-from django.contrib.postgres.fields import ArrayField  # TODO: Maybe don't do this
+from django.contrib.postgres.fields import ArrayField
 
 
 class Providers(models.Model):

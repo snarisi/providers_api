@@ -7,31 +7,6 @@ from .models import Providers
 from .serializers import ProviderSerializer
 
 
-# TODO: Think about what you want to do with this
-def _seed_data():
-    with open('/Users/snarisi/Personal/providers_api/providers.json') as f:  # TODO: change file path
-        data = json.loads(f.read())
-
-    for entry in data:
-        provider = Providers(
-            id=entry['id'],
-            first_name=entry['first_name'],
-            last_name=entry['last_name'],
-            sex=entry['sex'],
-            birth_date=entry['birth_date'],
-            rating=entry['rating'],
-            primary_skills=entry['primary_skills'],
-            secondary_skills=entry['secondary_skill'],
-            company=entry['company'],
-            active=entry['active'],
-            country=entry['country'],
-            language=entry['language'],
-        )
-        provider.save()
-
-
-# _seed_data()
-
 
 class ProvidersView(generics.ListAPIView):
     queryset = Providers.objects.all()
