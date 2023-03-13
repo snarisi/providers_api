@@ -7,7 +7,6 @@ from .models import Providers
 from .serializers import ProviderSerializer
 
 
-
 class ProvidersView(generics.ListAPIView):
     queryset = Providers.objects.all()
     serializer_class = ProviderSerializer
@@ -76,13 +75,23 @@ class ProvidersView(generics.ListAPIView):
                 language__contains=self._get_request_data(request, 'language')
             )
         if self._get_request_data(request, 'primary_skills'):
-            # TODO: This is only one skill, but you should search for more at once
-            primary_skills = self._get_request_data(request, 'primary_skills')
-            providers = providers.filter(primary_skills__icontains=primary_skills)
+            primary_skills = request.GET.get('primary_skills')
+            if primary_skills.startswith('[') and primary_skills.endswith(']'):
+                primary_skills = json.loads(primary_skills)
+            else:
+                primary_skills = [primary_skills,]
+
+            for primary_skill in primary_skills:
+                providers = providers.filter(primary_skills__icontains=primary_skill)
         if self._get_request_data(request, 'secondary_skills'):
-            # TODO: This is only one skill, but you should search for more at once
-            secondary_skills = self._get_request_data(request, 'secondary_skills')
-            providers = providers.filter(secondary_skills__icontains=secondary_skills)
+            secondary_skills = request.GET.get('secondary_skills')
+            if secondary_skills.startswith('[') and secondary_skills.endswith(']'):
+                secondary_skills = json.loads(secondary_skills)
+            else:
+                secondary_skills = [secondary_skills,]
+
+            for secondary_skill in secondary_skills:
+                providers = providers.filter(secondary_skills__icontains=secondary_skill)
 
         return providers
 
